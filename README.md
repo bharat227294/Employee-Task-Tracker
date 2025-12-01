@@ -52,7 +52,9 @@ Step 2 - Unzip the zipped folder !
 
 Step 3 - Open Terminal
 
-Step 4 - cd "C:\Users\bhara\Downloads\Employee Task Tracker UI" ( your directory of the file modify as you saved where package.json is located !! )
+Step 4 - Change the directory
+
+cd "C:\Users\bhara\Downloads\Employee Task Tracker UI" ( your directory of the file modify as you saved where package.json is located !! )
 
 Step 5 - Run in terminal :
 

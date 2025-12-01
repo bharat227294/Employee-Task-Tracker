@@ -54,7 +54,9 @@ Step 3 - Open Terminal
 
 Step 4 - cd "C:\Users\bhara\Downloads\Employee Task Tracker UI" ( your directory of the file modify as you saved where package.json is located !! )
 
-Step 5 - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+Step 5 - Run in terminal :
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 Step 6 — Install dependencies
 

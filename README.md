@@ -4,15 +4,17 @@ A modern, responsive web application built using React + TypeScript + Vite, desi
 The UI is designed in Figma Make, converted into a full frontend project, and enhanced with task filtering, status updates, employee management, and LocalStorage persistence.
 
 📌 Features :
--> Feature	                                                                        Status
--> View employees & assigned tasks	                                                 ✅
--> Add new task to any employee	                                                     ✅
--> Add new employee (optional enhancement)	                                         ✅
--> Change task status (Pending / In Progress / Completed)	                           ✅
--> Filter tasks by status	                                                           ✅
--> Dashboard summary with counts & progress bar	                                     ✅
--> LocalStorage persistence (data stays after reload)	                               🔥
--> Fully responsive UI	                                                             🔥
+| Feature                                                | Status |
+| ------------------------------------------------------ | ------ |
+| View employees & assigned tasks                        | ✅      |
+| Add new task to any employee                           | ✅      |
+| Add new employee (enhancement)                         | ✅      |
+| Change task status (Pending / In Progress / Completed) | ✅      |
+| Task filtering by status                               | ✅      |
+| Dashboard summary with totals & progress bar           | ✅      |
+| LocalStorage saved data even after refresh             | 🔥     |
+| Fully responsive UI                                    | 🔥     |
+
 
 
 🛠 Tech Stack :
@@ -34,30 +36,27 @@ Employee Task Tracker UI/
 │── vite.config.ts
 │── package-lock.json
 │── README.md
-└──node_modules/
-    ├── .package-lock.json
-    ...
+│── node_modules/
 └── src/
     ├── App.tsx
     ├── main.tsx
     ├── index.css
     ├── Attributions.md
-    ├── styles/
-    │   └── globals.css
+    ├── styles/globals.css
     └── components/
-       ├── tracker/
-       │   ├── Header.tsx
-       │   ├── DashboardSummary.tsx
-       │   ├── TaskFilters.tsx
-       │   ├── EmployeeList.tsx
-       │   ├── EmployeeCard.tsx
-       │   ├── EmployeeStatsTable.tsx
-       │   ├── AddEmployeeModal.tsx
-       │   ├── AddTaskModal.tsx
-       │   └── types.ts
-       ├── ui/         
-       └── figma/
-            ├── ImageWithFallback.tsx
+        ├── tracker/
+        │   ├── Header.tsx
+        │   ├── DashboardSummary.tsx
+        │   ├── TaskFilters.tsx
+        │   ├── EmployeeList.tsx
+        │   ├── EmployeeCard.tsx
+        │   ├── EmployeeStatsTable.tsx
+        │   ├── AddEmployeeModal.tsx
+        │   ├── AddTaskModal.tsx
+        │   └── types.ts
+        ├── ui/
+        └── figma/ImageWithFallback.tsx
+
   
 
 

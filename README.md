@@ -71,3 +71,11 @@ Your full frontend UI will open in the browser.
 | Users interact only through the UI (no authentication)         | Simplifies prototype for evaluation     |
 | One employee can have multiple tasks                           | Realistic workplace scenario            |
 | Status values limited to **Pending / In Progress / Completed** | Standard task pipeline flow             |
+
+
+
+
+output :
+<img width="802" height="909" alt="image" src="https://github.com/user-attachments/assets/171c962c-42ca-4781-a250-ea156cd64121" />
+
+

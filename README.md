@@ -70,6 +70,7 @@ Employee Task Tracker UI/
 
 
 Step 1 - cd "C:\Users\bhara\Downloads\Employee Task Tracker UI" ( your directory of the file modify as you saved !! )
+
 Step 2 - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 Step 3 — Install dependencies

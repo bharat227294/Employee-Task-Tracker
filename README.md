@@ -33,35 +33,6 @@ The UI is designed in Figma Make, converted into a full frontend project, and en
 
 <img width="314" height="588" alt="image" src="https://github.com/user-attachments/assets/12081509-8b96-4e7e-9843-279f52309d9f" />
 
-Employee Task Tracker UI/
-│── index.html
-│── package.json
-│── vite.config.ts
-│── package-lock.json
-│── README.md
-│── node_modules/
-└── src/
-    ├── App.tsx
-    ├── main.tsx
-    ├── index.css
-    ├── Attributions.md
-    ├── styles/globals.css
-    └── components/
-        ├── tracker/
-        │   ├── Header.tsx
-        │   ├── DashboardSummary.tsx
-        │   ├── TaskFilters.tsx
-        │   ├── EmployeeList.tsx
-        │   ├── EmployeeCard.tsx
-        │   ├── EmployeeStatsTable.tsx
-        │   ├── AddEmployeeModal.tsx
-        │   ├── AddTaskModal.tsx
-        │   └── types.ts
-        ├── ui/
-        └── figma/ImageWithFallback.tsx
-
-
-  
 
 
 ▶ How to Run the Project Locally

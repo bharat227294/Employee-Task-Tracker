@@ -38,26 +38,25 @@ Employee Task Tracker UI/
 │── README.md
 │── node_modules/
 └── src/
-├── App.tsx
-├── main.tsx
-├── index.css
-├── Attributions.md
-├── styles/
-│ └── globals.css
-└── components/
-├── tracker/
-│ ├── Header.tsx
-│ ├── DashboardSummary.tsx
-│ ├── TaskFilters.tsx
-│ ├── EmployeeList.tsx
-│ ├── EmployeeCard.tsx
-│ ├── EmployeeStatsTable.tsx
-│ ├── AddEmployeeModal.tsx
-│ ├── AddTaskModal.tsx
-│ └── types.ts
-├── ui/
-└── figma/
-├── ImageWithFallback.tsx
+    ├── App.tsx
+    ├── main.tsx
+    ├── index.css
+    ├── Attributions.md
+    ├── styles/globals.css
+    └── components/
+        ├── tracker/
+        │   ├── Header.tsx
+        │   ├── DashboardSummary.tsx
+        │   ├── TaskFilters.tsx
+        │   ├── EmployeeList.tsx
+        │   ├── EmployeeCard.tsx
+        │   ├── EmployeeStatsTable.tsx
+        │   ├── AddEmployeeModal.tsx
+        │   ├── AddTaskModal.tsx
+        │   └── types.ts
+        ├── ui/
+        └── figma/ImageWithFallback.tsx
+
 
   
 

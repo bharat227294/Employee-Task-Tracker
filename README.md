@@ -49,9 +49,11 @@ Step 1 - cd "C:\Users\bhara\Downloads\Employee Task Tracker UI" ( your directory
 Step 2 - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 Step 3 — Install dependencies
+
 npm install
 
 Step 4 — Start development server
+
 npm run dev
 
 Step 5 — Open the URL shown in terminal

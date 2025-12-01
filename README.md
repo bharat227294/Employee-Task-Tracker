@@ -44,7 +44,7 @@ The UI is designed in Figma Make, converted into a full frontend project, and en
 ✔ Internet (only for first-time install)
 
 
-Step 1 - cd "C:\Users\bhara\Downloads\Employee Task Tracker UI" ( your directory of the file modify as you saved !! )
+Step 1 - cd "C:\Users\bhara\Downloads\Employee Task Tracker UI" ( your directory of the file modify as you saved where package.json is located !! )
 
 Step 2 - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 

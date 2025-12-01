@@ -48,23 +48,23 @@ The UI is designed in Figma Make, converted into a full frontend project, and en
 
 Step 1 - Install the folder from the above repo !!!
 
-Step 2 - Unzip the zipped folder !
+Step 2 - Unzip the zipped folder in files explorer !
 
 Step 3 - Open Terminal
 
-Step 4 - Change the directory
+Step 4 - Change the directory to where package.json file is located
 
-cd "C:\Users\bhara\Downloads\Employee Task Tracker UI" ( your directory of the file modify as you saved where package.json is located !! )
+cd "C:\Users\bhara\Downloads\Employee Task Tracker UI" ( change to your directory of the file modify as you saved where package.json is located !! )
 
 Step 5 - Run in terminal :
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
-Step 6 — Install dependencies
+Step 6 — Install dependencies in terminal
 
 npm install
 
-Step 7 — Start development server
+Step 7 — Start development server in terminal
 
 npm run dev
 
@@ -93,3 +93,6 @@ output :
 <img width="802" height="909" alt="image" src="https://github.com/user-attachments/assets/171c962c-42ca-4781-a250-ea156cd64121" />
 
 
+Video description on how to install and run the website :
+
+https://drive.google.com/file/d/1gyR-y3rcp2z2uFz3uASmaKDCDyhSGDu0/view

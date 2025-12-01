@@ -40,23 +40,31 @@ The UI is designed in Figma Make, converted into a full frontend project, and en
 📌 Prerequisites
 
 ✔ Node.js Installed
+
 ✔ Command Prompt / PowerShell
+
 ✔ Internet (only for first-time install)
 
 
-Step 1 - cd "C:\Users\bhara\Downloads\Employee Task Tracker UI" ( your directory of the file modify as you saved where package.json is located !! )
+Step 1 - Install the folder from the above repo !!!
 
-Step 2 - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+Step 2 - Unzip the zipped folder !
 
-Step 3 — Install dependencies
+Step 3 - Open Terminal
+
+Step 4 - cd "C:\Users\bhara\Downloads\Employee Task Tracker UI" ( your directory of the file modify as you saved where package.json is located !! )
+
+Step 5 - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+Step 6 — Install dependencies
 
 npm install
 
-Step 4 — Start development server
+Step 7 — Start development server
 
 npm run dev
 
-Step 5 — Open the URL shown in terminal
+Step 8 — Open the URL shown in terminal
 
 Example:
 
